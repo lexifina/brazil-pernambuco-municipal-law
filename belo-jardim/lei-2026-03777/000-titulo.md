@@ -1,0 +1,2 @@
+# LEI MUNICIPAL Nº 3.777/2026 Ementa: Fica denominada a Sala Azul da Escola Municipal Luiza Leopoldina Lopes, localizada no Distrito de Xucuru, Município de Belo Jardim, Estado de Pernambuco, de "Espaço de Educação Inclusiva Safira Vitória Ferreira Santos", e dá outras providências.
+O PREFEITO DO MUNICÍPIO DE BELO JARDIM, no uso das atribuições conferidas pela Lei Orgânica Municipal, faz saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei.
