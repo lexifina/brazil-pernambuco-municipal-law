@@ -1,0 +1,2 @@
+# LEI MUNICIPAL Nº 3.784/2026 Ementa: Reestrutura o Programa de Incentivo ao Desempenho, o Adicional de Qualificação e o Adicional de Risco de Vida no âmbito da Câmara Municipal de Belo Jardim, revoga integralmente a Lei Municipal nº 3.195, de 15 de dezembro de 2017, e dá outras providências.
+O PREFEITO DO MUNICÍPIO DE BELO JARDIM, no uso das atribuições conferidas pela Lei Orgânica Municipal, faz saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei.
