@@ -1,0 +1,2 @@
+# LEI MUNICIPAL Nº 3.786/2026 Ementa: Institui no Calendário Oficial de Eventos do Município de Belo Jardim, a Festa do Padre Cícero e Nossa Senhora das Dores, no bairro do São Pedro, reconhecendo-a como manifestação cultural e imaterial, e dá outras providências.
+O PREFEITO DO MUNICÍPIO DE BELO JARDIM, no uso das atribuições conferidas pela Lei Orgânica Municipal, faz saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei.
