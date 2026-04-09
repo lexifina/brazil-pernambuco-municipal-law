@@ -1,0 +1,2 @@
+# LEI MUNICIPAL Nº 3.791/2026 Ementa: Autoriza o Poder Executivo Municipal a conceder subvenção social ao INSTITUTO MUSICAL DO AGRESTE - BANDA SINFÔNICA 11 DE SETEMBRO, disciplina a formalização mediante Termo de Fomento, estabelece contrapartidas de interesse público e dá outras providências.
+O PREFEITO DO MUNICÍPIO DE BELO JARDIM, no uso das atribuições conferidas pela Lei Orgânica Municipal, faz saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei.
