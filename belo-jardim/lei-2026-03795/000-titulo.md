@@ -1,0 +1,2 @@
+# LEI MUNICIPAL Nº 3.795/2026 Ementa: Altera a Lei Municipal nº 3.670/2025, que instituiu funções gratificadas na Autarquia Educacional de Belo Jardim - AEB, cria novas funções gratificadas, atualiza valores, institui a Comissão de Vestibular da Autarquia Educacional de Belo Jardim, revoga a Lei Municipal nº 1.543/2002, e dá outras providências.
+O PREFEITO DO MUNICÍPIO DE BELO JARDIM, no uso das atribuições conferidas pela Lei Orgânica Municipal, faz saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei.
