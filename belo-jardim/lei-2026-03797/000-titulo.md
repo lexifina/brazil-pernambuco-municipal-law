@@ -1,0 +1,2 @@
+# LEI MUNICIPAL Nº 3.797/2026 Ementa: Dispõe sobre a criação do Programa de Metodologias Ativas para o Curso de Medicina pela Autarquia Educacional de Belo Jardim - AEB / Faculdade do Belo Jardim - FBJ e dá outras providências.
+O PREFEITO DO MUNICÍPIO DE BELO JARDIM, no uso das atribuições conferidas pela Lei Orgânica Municipal, faz saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei.
