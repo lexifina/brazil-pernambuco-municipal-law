@@ -1,0 +1,2 @@
+# LEI MUNICIPAL Nº 3.801/2026 Ementa: Institui no Calendário Oficial de Eventos do Município de Belo Jardim o "Festival de Arte, Música, Cultura e Gastronomia do Sítio Rodrigues", reconhece o evento como Patrimônio Cultural Imaterial do Município e dá outras providências.
+O PREFEITO DO MUNICÍPIO DE BELO JARDIM, no uso das atribuições conferidas pela Lei Orgânica Municipal, faz saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei.
