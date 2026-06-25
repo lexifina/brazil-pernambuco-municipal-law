@@ -1,0 +1,2 @@
+# LEI MUNICIPAL Nº 3.803/2026 Ementa: Dispõe sobre a autorização para pagamento retroativo de adicional por tempo de serviço, na modalidade quinquênio, aos servidores efetivos do Poder Legislativo Municipal de Belo Jardim, em decorrência da recomposição da contagem de tempo de serviço restabelecida pela Lei Complementar Federal nº 226, de 12 de janeiro de 2026, e dá outras providências.
+O PREFEITO DO MUNICÍPIO DE BELO JARDIM, no uso das atribuições conferidas pela Lei Orgânica Municipal, faz saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei.
