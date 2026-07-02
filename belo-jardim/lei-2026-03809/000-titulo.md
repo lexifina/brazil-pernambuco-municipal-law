@@ -1,0 +1,2 @@
+# LEI MUNICIPAL Nº 3.809/2026 Ementa: Altera o artigo 1º da Lei Municipal nº 2.058, de 31 de outubro de 2013, modificando o mês de realização da Semana do Bebê no Município de Belo Jardim, Estado de Pernambuco, e dá outras providências.
+O PREFEITO DO MUNICÍPIO DE BELO JARDIM, no uso das atribuições conferidas pela Lei Orgânica Municipal, faz saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei.
