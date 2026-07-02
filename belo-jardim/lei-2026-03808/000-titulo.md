@@ -1,0 +1,2 @@
+# LEI MUNICIPAL Nº 3.808/2026 Ementa: Dispõe sobre a alteração da denominação oficial e atualização dos endereços de funcionamento de unidades escolares integrantes da Rede Municipal de Ensino de Belo Jardim/PE, e dá outras providências.
+O PREFEITO DO MUNICÍPIO DE BELO JARDIM, no uso das atribuições conferidas pela Lei Orgânica Municipal, faz saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei.
