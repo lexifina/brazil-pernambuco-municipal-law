@@ -1,0 +1,2 @@
+# LEI MUNICIPAL Nº 3.810/2026 Ementa: Dispõe sobre a extinção de cargos públicos efetivos vagos integrantes da estrutura administrativa do Município de Belo Jardim, cria novos cargos públicos efetivos, reorganiza o quadro permanente de pessoal da Administração Pública Municipal e dá outras providências.
+O PREFEITO DO MUNICÍPIO DE BELO JARDIM, no uso das atribuições conferidas pela Lei Orgânica Municipal, faz saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei.
