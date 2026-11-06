@@ -1,0 +1,13 @@
+{
+  "path": "br-pe-municipal",
+  "code": "BR-PE-MUNICIPAL",
+  "name": "Pernambuco (municipal chambers)",
+  "level": "municipalities",
+  "parent": "br-pe",
+  "repo": "https://github.com/lexifina/brazil-pernambuco-municipal-law",
+  "build": "built: the municipal law of Pernambuco from the Câmaras Municipais' SAPL",
+  "units": [
+    "olinda",
+    "belo-jardim"
+  ]
+}

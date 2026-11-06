@@ -1,0 +1,740 @@
+{
+ "country": "BR-PE-MUNICIPAL",
+ "acts": [
+  {
+   "slug": "belo-jardim/lei-2026-03812",
+   "unit": "belo-jardim",
+   "short": "Lei 3812/2026",
+   "title": "Lei nº 3.812, de 31 de agosto de 2026",
+   "url": "https://sapl.belojardim.pe.leg.br/norma/5694",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 4,
+     "source_url": "https://sapl.belojardim.pe.leg.br/media/sapl/public/normajuridica/2026/5694/lei_3812.pdf",
+     "sha256": "6ed2d8634554f4911fa73f176c62db4696d7f3a419864041702e56f59f4ea836"
+    }
+   ]
+  },
+  {
+   "slug": "belo-jardim/lei-2026-03810",
+   "unit": "belo-jardim",
+   "short": "Lei 3810/2026",
+   "title": "Lei nº 3.810, de 13 de julho de 2026",
+   "url": "https://sapl.belojardim.pe.leg.br/norma/5691",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 25,
+     "source_url": "https://sapl.belojardim.pe.leg.br/media/sapl/public/normajuridica/2026/5691/lei_municipal_no_3.810.pdf",
+     "sha256": "b18cab950e0edda18b652dadc1017514f8c57a3b3a431899d09216eda33d7b15"
+    }
+   ]
+  },
+  {
+   "slug": "belo-jardim/lei-2026-03809",
+   "unit": "belo-jardim",
+   "short": "Lei 3809/2026",
+   "title": "Lei nº 3.809, de 2 de julho de 2026",
+   "url": "https://sapl.belojardim.pe.leg.br/norma/5687",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 5,
+     "source_url": "https://sapl.belojardim.pe.leg.br/media/sapl/public/normajuridica/2026/5687/lei_municipal_no_3.809.pdf",
+     "sha256": "ecd54630ec62b6525e4ffa20906d8787c8efd60bfc1a77e0a8636181f99c9e57"
+    }
+   ]
+  },
+  {
+   "slug": "belo-jardim/lei-2026-03807",
+   "unit": "belo-jardim",
+   "short": "Lei 3807/2026",
+   "title": "Lei nº 3.807, de 25 de junho de 2026",
+   "url": "https://sapl.belojardim.pe.leg.br/norma/5685",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 5,
+     "source_url": "https://sapl.belojardim.pe.leg.br/media/sapl/public/normajuridica/2026/5685/lei_municipal_no_3.807.pdf",
+     "sha256": "4b3adf361e5795c04c3d706cc6f407e24891bff8f5065bee97f3325def1b1444"
+    }
+   ]
+  },
+  {
+   "slug": "belo-jardim/lei-2026-03806",
+   "unit": "belo-jardim",
+   "short": "Lei 3806/2026",
+   "title": "Lei nº 3.806, de 25 de junho de 2026",
+   "url": "https://sapl.belojardim.pe.leg.br/norma/5684",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 9,
+     "source_url": "https://sapl.belojardim.pe.leg.br/media/sapl/public/normajuridica/2026/5684/lei_municipal_no_3.806.pdf",
+     "sha256": "1e185921d3e8ba745001a78719d85b2d11d8f42aecaab08812566f278a4462bc"
+    }
+   ]
+  },
+  {
+   "slug": "belo-jardim/lei-2026-03805",
+   "unit": "belo-jardim",
+   "short": "Lei 3805/2026",
+   "title": "Lei nº 3.805, de 25 de junho de 2026",
+   "url": "https://sapl.belojardim.pe.leg.br/norma/5683",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 4,
+     "source_url": "https://sapl.belojardim.pe.leg.br/media/sapl/public/normajuridica/2026/5683/lei_municipal_no_3.805.pdf",
+     "sha256": "408f5c42f4a71c8f83598675c092ab2634df1ad1087a63ac8921be4f52e8c709"
+    }
+   ]
+  },
+  {
+   "slug": "belo-jardim/lei-2026-03804",
+   "unit": "belo-jardim",
+   "short": "Lei 3804/2026",
+   "title": "Lei nº 3.804, de 25 de junho de 2026",
+   "url": "https://sapl.belojardim.pe.leg.br/norma/5682",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 5,
+     "source_url": "https://sapl.belojardim.pe.leg.br/media/sapl/public/normajuridica/2026/5682/lei_municipal_no_3.804.pdf",
+     "sha256": "b3847d0c3dcd197a2e862bdf9fc750ec5b54e87b33e3635f9950f83580410acb"
+    }
+   ]
+  },
+  {
+   "slug": "belo-jardim/lei-2026-03803",
+   "unit": "belo-jardim",
+   "short": "Lei 3803/2026",
+   "title": "Lei nº 3.803, de 25 de junho de 2026",
+   "url": "https://sapl.belojardim.pe.leg.br/norma/5681",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 8,
+     "source_url": "https://sapl.belojardim.pe.leg.br/media/sapl/public/normajuridica/2026/5681/1782824189_7afddaf40bbeee7e90b7.pdf",
+     "sha256": "ddf0e13f1083bf2bc61226fcd02c73c2a898fd0efd1c1b207055f44951d60c3c"
+    }
+   ]
+  },
+  {
+   "slug": "belo-jardim/lei-2026-03808",
+   "unit": "belo-jardim",
+   "short": "Lei 3808/2026",
+   "title": "Lei nº 3.808, de 2 de junho de 2026",
+   "url": "https://sapl.belojardim.pe.leg.br/norma/5686",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 7,
+     "source_url": "https://sapl.belojardim.pe.leg.br/media/sapl/public/normajuridica/2026/5686/lei_municipal_no_3.808.pdf",
+     "sha256": "426c6460187af5a3080de45e6b247789bfd9bcdac7ec0acf4b7105ed51ddc019"
+    }
+   ]
+  },
+  {
+   "slug": "belo-jardim/lei-2026-03802",
+   "unit": "belo-jardim",
+   "short": "Lei 3802/2026",
+   "title": "Lei nº 3.802, de 2 de junho de 2026",
+   "url": "https://sapl.belojardim.pe.leg.br/norma/5679",
+   "versions": [
+    {
+     "from": "2026-06-02",
+     "units": 7,
+     "source_url": "https://sapl.belojardim.pe.leg.br/media/sapl/public/normajuridica/2026/5679/1780414217_499b3d758a504084c14f.pdf",
+     "sha256": "4b411c41befc449bdf4179c37979bc529b6b5894bcfe0ec5a4abcbe1d66ea905"
+    }
+   ]
+  },
+  {
+   "slug": "belo-jardim/lei-2026-03801",
+   "unit": "belo-jardim",
+   "short": "Lei 3801/2026",
+   "title": "Lei nº 3.801, de 14 de maio de 2026",
+   "url": "https://sapl.belojardim.pe.leg.br/norma/5678",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 7,
+     "source_url": "https://sapl.belojardim.pe.leg.br/media/sapl/public/normajuridica/2026/5678/1778767601_533e5df0afdc76d5cd80.pdf",
+     "sha256": "634f263b609caba15a56fba3eb4c0d433f5053571b6f8789b0024ae1bf1d4d3b"
+    }
+   ]
+  },
+  {
+   "slug": "belo-jardim/lei-2026-03800",
+   "unit": "belo-jardim",
+   "short": "Lei 3800/2026",
+   "title": "Lei nº 3.800, de 14 de maio de 2026",
+   "url": "https://sapl.belojardim.pe.leg.br/norma/5677",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 3,
+     "source_url": "https://sapl.belojardim.pe.leg.br/media/sapl/public/normajuridica/2026/5677/1778767361_895b6358ae6b1ccc40ec.pdf",
+     "sha256": "57be0180a8c3b17a872491fe878bec20ffefc7957f385631cfd064bd9e01bab2"
+    }
+   ]
+  },
+  {
+   "slug": "belo-jardim/lei-2026-03799",
+   "unit": "belo-jardim",
+   "short": "Lei 3799/2026",
+   "title": "Lei nº 3.799, de 4 de maio de 2026",
+   "url": "https://sapl.belojardim.pe.leg.br/norma/5656",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 3,
+     "source_url": "https://sapl.belojardim.pe.leg.br/media/sapl/public/normajuridica/2026/5656/lei_municipal_no_3.799.pdf",
+     "sha256": "0220c905b663742b0fa5bc833463206a8e34d214e6fd828bb6b55e3eb0d102fc"
+    }
+   ]
+  },
+  {
+   "slug": "belo-jardim/lei-2026-03798",
+   "unit": "belo-jardim",
+   "short": "Lei 3798/2026",
+   "title": "Lei nº 3.798, de 14 de abril de 2026",
+   "url": "https://sapl.belojardim.pe.leg.br/norma/5655",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 5,
+     "source_url": "https://sapl.belojardim.pe.leg.br/media/sapl/public/normajuridica/2026/5655/lei_municipal_no_3.798.pdf",
+     "sha256": "cb1c7bd68d14b29b064285f918f5a8a6a2f83fc469fd03b9b9f1aab075d72201"
+    }
+   ]
+  },
+  {
+   "slug": "belo-jardim/lei-2026-03792",
+   "unit": "belo-jardim",
+   "short": "Lei 3792/2026",
+   "title": "Lei nº 3.792, de 14 de abril de 2026",
+   "url": "https://sapl.belojardim.pe.leg.br/norma/5638",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 3,
+     "source_url": "https://sapl.belojardim.pe.leg.br/media/sapl/public/normajuridica/2026/5638/lei_municipal_no_3.792.pdf",
+     "sha256": "5745af64592118d4de83bb0c417a5d6d32bb01c131165b3461a496d9435282a9"
+    }
+   ]
+  },
+  {
+   "slug": "belo-jardim/lei-2026-03797",
+   "unit": "belo-jardim",
+   "short": "Lei 3797/2026",
+   "title": "Lei nº 3.797, de 10 de abril de 2026",
+   "url": "https://sapl.belojardim.pe.leg.br/norma/5652",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "units": 10,
+     "source_url": "https://sapl.belojardim.pe.leg.br/media/sapl/public/normajuridica/2026/5652/lei_municipal_no_3.797_-_ok.pdf",
+     "sha256": "973f4b71b5adaba771f57912e4390327ae54dab328e9cc0143365605dd0a7bb1"
+    }
+   ]
+  },
+  {
+   "slug": "belo-jardim/lei-2026-03796",
+   "unit": "belo-jardim",
+   "short": "Lei 3796/2026",
+   "title": "Lei nº 3.796, de 10 de abril de 2026",
+   "url": "https://sapl.belojardim.pe.leg.br/norma/5647",
+   "versions": [
+    {
+     "from": "2026-04-10",
+     "units": 14,
+     "source_url": "https://sapl.belojardim.pe.leg.br/media/sapl/public/normajuridica/2026/5647/lei_municipal_no_3.796.pdf",
+     "sha256": "145b423cdc3e8fbc017d90a906c3aae2c3d94b6f99a7cdb89745c99d78a1dab1"
+    }
+   ]
+  },
+  {
+   "slug": "belo-jardim/lei-2026-03795",
+   "unit": "belo-jardim",
+   "short": "Lei 3795/2026",
+   "title": "Lei nº 3.795, de 9 de abril de 2026",
+   "url": "https://sapl.belojardim.pe.leg.br/norma/5642",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 9,
+     "source_url": "https://sapl.belojardim.pe.leg.br/media/sapl/public/normajuridica/2026/5642/1776261135_ddf80fba432bfaf28be1.pdf",
+     "sha256": "2ad077cd4560074fc20d6e1f85711956c8330440cb3f95895463edc1fa95e80a"
+    }
+   ]
+  },
+  {
+   "slug": "belo-jardim/lei-2026-03794",
+   "unit": "belo-jardim",
+   "short": "Lei 3794/2026",
+   "title": "Lei nº 3.794, de 9 de abril de 2026",
+   "url": "https://sapl.belojardim.pe.leg.br/norma/5645",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 3,
+     "source_url": "https://sapl.belojardim.pe.leg.br/media/sapl/public/normajuridica/2026/5645/1776260748_f577f38270da1782080f.pdf",
+     "sha256": "004466b306d7fb44d043fd8a2d32e15239d43dc27204110245f8310be43b99ef"
+    }
+   ]
+  },
+  {
+   "slug": "belo-jardim/lei-2026-03791",
+   "unit": "belo-jardim",
+   "short": "Lei 3791/2026",
+   "title": "Lei nº 3.791, de 9 de abril de 2026",
+   "url": "https://sapl.belojardim.pe.leg.br/norma/5636",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 9,
+     "source_url": "https://sapl.belojardim.pe.leg.br/media/sapl/public/normajuridica/2026/5636/lei_municipal_no_3.791.pdf",
+     "sha256": "60828373c5bd54957e7dfe27badb28e8e25b55823c46d562490b6e3f2a0c59d3"
+    }
+   ]
+  },
+  {
+   "slug": "belo-jardim/lei-2026-03790",
+   "unit": "belo-jardim",
+   "short": "Lei 3790/2026",
+   "title": "Lei nº 3.790, de 9 de abril de 2026",
+   "url": "https://sapl.belojardim.pe.leg.br/norma/5635",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 5,
+     "source_url": "https://sapl.belojardim.pe.leg.br/media/sapl/public/normajuridica/2026/5635/lei_municipal_no_3.790.pdf",
+     "sha256": "767d9f49328e15ea2cd7c3b1d9b763128e9737c5220d778a7cbd8b4889b2a5d4"
+    }
+   ]
+  },
+  {
+   "slug": "belo-jardim/lei-2026-03787",
+   "unit": "belo-jardim",
+   "short": "Lei 3787/2026",
+   "title": "Lei nº 3.787, de 27 de março de 2026",
+   "url": "https://sapl.belojardim.pe.leg.br/norma/5632",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 3,
+     "source_url": "https://sapl.belojardim.pe.leg.br/media/sapl/public/normajuridica/2026/5632/lei_municipal_no_3.787.pdf",
+     "sha256": "cb9f10ea6beeddec4df5b1509ec6ad5509c0a6a398a0c109fbf3731f9938b640"
+    }
+   ]
+  },
+  {
+   "slug": "belo-jardim/lei-2026-03786",
+   "unit": "belo-jardim",
+   "short": "Lei 3786/2026",
+   "title": "Lei nº 3.786, de 27 de março de 2026",
+   "url": "https://sapl.belojardim.pe.leg.br/norma/5631",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 7,
+     "source_url": "https://sapl.belojardim.pe.leg.br/media/sapl/public/normajuridica/2026/5631/lei_municipal_no_3.786.pdf",
+     "sha256": "15298d77758e69a5a523e2ccc76900e6bad6cf560ff53408fa43bc1c8d1a3d2f"
+    }
+   ]
+  },
+  {
+   "slug": "belo-jardim/lei-2026-03785",
+   "unit": "belo-jardim",
+   "short": "Lei 3785/2026",
+   "title": "Lei nº 3.785, de 20 de março de 2026",
+   "url": "https://sapl.belojardim.pe.leg.br/norma/5630",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 3,
+     "source_url": "https://sapl.belojardim.pe.leg.br/media/sapl/public/normajuridica/2026/5630/lei_municipal_no_3.785.pdf",
+     "sha256": "4ff401e76e62906bdd6910fe317eaf4555aa09b53295e572bdc8cd37376546de"
+    }
+   ]
+  },
+  {
+   "slug": "belo-jardim/lei-2026-03784",
+   "unit": "belo-jardim",
+   "short": "Lei 3784/2026",
+   "title": "Lei nº 3.784, de 19 de março de 2026",
+   "url": "https://sapl.belojardim.pe.leg.br/norma/5629",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 26,
+     "source_url": "https://sapl.belojardim.pe.leg.br/media/sapl/public/normajuridica/2026/5629/lei_municipal_no_3.784.pdf",
+     "sha256": "8afca61279f19f6a743c9763f735e9f2ffda79598502cd05a2f25a48b25c1653"
+    }
+   ]
+  },
+  {
+   "slug": "belo-jardim/lei-2026-03783",
+   "unit": "belo-jardim",
+   "short": "Lei 3783/2026",
+   "title": "Lei nº 3.783, de 19 de março de 2026",
+   "url": "https://sapl.belojardim.pe.leg.br/norma/5628",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 9,
+     "source_url": "https://sapl.belojardim.pe.leg.br/media/sapl/public/normajuridica/2026/5628/lei_municipal_no_3.783.pdf",
+     "sha256": "8d7a39f8ee914f566fcccbef58f0c81f08b9b89b38889d7a170340c159c45b2f"
+    }
+   ]
+  },
+  {
+   "slug": "belo-jardim/lei-2026-03781",
+   "unit": "belo-jardim",
+   "short": "Lei 3781/2026",
+   "title": "Lei nº 3.781, de 9 de março de 2026",
+   "url": "https://sapl.belojardim.pe.leg.br/norma/5626",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 3,
+     "source_url": "https://sapl.belojardim.pe.leg.br/media/sapl/public/normajuridica/2026/5626/lei_municipal_no_3.781.pdf",
+     "sha256": "172d4a95e9a5e3fa315c0ac2aea922a9a08c3320c55a4143b54cd65fd446b13a"
+    }
+   ]
+  },
+  {
+   "slug": "belo-jardim/lei-2026-03780",
+   "unit": "belo-jardim",
+   "short": "Lei 3780/2026",
+   "title": "Lei nº 3.780, de 9 de março de 2026",
+   "url": "https://sapl.belojardim.pe.leg.br/norma/5625",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 4,
+     "source_url": "https://sapl.belojardim.pe.leg.br/media/sapl/public/normajuridica/2026/5625/lei_municipal_no_3.780.pdf",
+     "sha256": "9f456d1b0b2601dd54f5b1918b44ad4c8ccec6f2666d8872dd37f8cb7df64e6f"
+    }
+   ]
+  },
+  {
+   "slug": "belo-jardim/lei-2026-03779",
+   "unit": "belo-jardim",
+   "short": "Lei 3779/2026",
+   "title": "Lei nº 3.779, de 5 de março de 2026",
+   "url": "https://sapl.belojardim.pe.leg.br/norma/5624",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 3,
+     "source_url": "https://sapl.belojardim.pe.leg.br/media/sapl/public/normajuridica/2026/5624/lei_municipal_no_3.779.pdf",
+     "sha256": "849b541ef0d4a2dbf764e0d59726876972f2f56e5dd72785f9efa18b314283d7"
+    }
+   ]
+  },
+  {
+   "slug": "belo-jardim/lei-2026-03778",
+   "unit": "belo-jardim",
+   "short": "Lei 3778/2026",
+   "title": "Lei nº 3.778, de 2 de março de 2026",
+   "url": "https://sapl.belojardim.pe.leg.br/norma/5623",
+   "versions": [
+    {
+     "from": "2026-03-02",
+     "units": 29,
+     "source_url": "https://sapl.belojardim.pe.leg.br/media/sapl/public/normajuridica/2026/5623/lei_municipal_no_3.778.pdf",
+     "sha256": "1b694ef0b2337f7868e622804422632835ac8c6afc5c1169acc3d1fc292f9bfc"
+    }
+   ]
+  },
+  {
+   "slug": "belo-jardim/lei-2026-03777",
+   "unit": "belo-jardim",
+   "short": "Lei 3777/2026",
+   "title": "Lei nº 3.777, de 20 de fevereiro de 2026",
+   "url": "https://sapl.belojardim.pe.leg.br/norma/5622",
+   "versions": [
+    {
+     "from": "2026-02-20",
+     "units": 3,
+     "source_url": "https://sapl.belojardim.pe.leg.br/media/sapl/public/normajuridica/2026/5622/lei_municipal_no_3.777.pdf",
+     "sha256": "126c525af9d4876b6495933518796ca39f62a3c628e3252c5fcd1a92bf57727b"
+    }
+   ]
+  },
+  {
+   "slug": "belo-jardim/lei-2025-03771",
+   "unit": "belo-jardim",
+   "short": "Lei 3771/2025",
+   "title": "Lei nº 3.771, de 30 de dezembro de 2025",
+   "url": "https://sapl.belojardim.pe.leg.br/norma/5616",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 4,
+     "source_url": "https://sapl.belojardim.pe.leg.br/media/sapl/public/normajuridica/2025/5616/lei_municipal_no_3.771.pdf",
+     "sha256": "6b4e52ef8af147017a5f12530e9192aff00cb97a04b8f39b1b63440ef2c34994"
+    }
+   ]
+  },
+  {
+   "slug": "belo-jardim/lei-2025-03770",
+   "unit": "belo-jardim",
+   "short": "Lei 3770/2025",
+   "title": "Lei nº 3.770, de 30 de dezembro de 2025",
+   "url": "https://sapl.belojardim.pe.leg.br/norma/5615",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 10,
+     "source_url": "https://sapl.belojardim.pe.leg.br/media/sapl/public/normajuridica/2025/5615/lei_municipal_no_3.770.pdf",
+     "sha256": "ab52c847c0c2da9cbd121c44ad5c7aec7e0984c37764def84b04336d754bf210"
+    }
+   ]
+  },
+  {
+   "slug": "belo-jardim/lei-2025-03769",
+   "unit": "belo-jardim",
+   "short": "Lei 3769/2025",
+   "title": "Lei nº 3.769, de 30 de dezembro de 2025",
+   "url": "https://sapl.belojardim.pe.leg.br/norma/5614",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 10,
+     "source_url": "https://sapl.belojardim.pe.leg.br/media/sapl/public/normajuridica/2025/5614/lei_municipal_no_3.769.pdf",
+     "sha256": "04eea1c2cdb3fae8f92e05cd8062f9e375558c1c87fb4ef51af2ebb2891772cb"
+    }
+   ]
+  },
+  {
+   "slug": "belo-jardim/lei-2025-03768",
+   "unit": "belo-jardim",
+   "short": "Lei 3768/2025",
+   "title": "Lei nº 3.768, de 30 de dezembro de 2025",
+   "url": "https://sapl.belojardim.pe.leg.br/norma/5613",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 10,
+     "source_url": "https://sapl.belojardim.pe.leg.br/media/sapl/public/normajuridica/2025/5613/lei_municipal_no_3.768.pdf",
+     "sha256": "b5903075bc760ced497a97fc71337be88b70e39adc7c9d340818f53fc3e4d371"
+    }
+   ]
+  },
+  {
+   "slug": "belo-jardim/lei-2025-03767",
+   "unit": "belo-jardim",
+   "short": "Lei 3767/2025",
+   "title": "Lei nº 3.767, de 30 de dezembro de 2025",
+   "url": "https://sapl.belojardim.pe.leg.br/norma/5612",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 21,
+     "source_url": "https://sapl.belojardim.pe.leg.br/media/sapl/public/normajuridica/2025/5612/lei_municipal_no_3.767.pdf",
+     "sha256": "91254fe09bc12b572be294c45590d9c5778422d7c8fae98a6251c18b28ee0d7f"
+    }
+   ]
+  },
+  {
+   "slug": "belo-jardim/lei-2025-03766",
+   "unit": "belo-jardim",
+   "short": "Lei 3766/2025",
+   "title": "Lei nº 3.766, de 30 de dezembro de 2025",
+   "url": "https://sapl.belojardim.pe.leg.br/norma/5611",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 10,
+     "source_url": "https://sapl.belojardim.pe.leg.br/media/sapl/public/normajuridica/2025/5611/lei_municipal_no_3.766.pdf",
+     "sha256": "74bbf13e697f319caf6e44b73a4c75105b75271fd383faad3fe034f39503ecd1"
+    }
+   ]
+  },
+  {
+   "slug": "olinda/lei-2026-06459",
+   "unit": "olinda",
+   "short": "Lei 6459/2026",
+   "title": "Lei nº 6.459, de 22 de setembro de 2026",
+   "url": "https://sapl.olinda.pe.leg.br/norma/2534",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 8,
+     "source_url": "https://sapl.olinda.pe.leg.br/media/sapl/public/normajuridica/2026/2534/lei_6459_2026.pdf",
+     "sha256": "fe82ea3e196261becc8e260a6dc5678e38313a544448b10179f8412329f34989"
+    }
+   ]
+  },
+  {
+   "slug": "olinda/lei-2026-06442",
+   "unit": "olinda",
+   "short": "Lei 6442/2026",
+   "title": "Lei nº 6.442, de 1 de julho de 2026",
+   "url": "https://sapl.olinda.pe.leg.br/norma/2517",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 4,
+     "source_url": "https://sapl.olinda.pe.leg.br/media/sapl/public/normajuridica/2026/2517/lei_6442_2026.pdf",
+     "sha256": "b6b06be0073074e8f6a8f23f7da987f029cf5e1154dec95ee372b8f5e9f1b3a3"
+    }
+   ]
+  },
+  {
+   "slug": "olinda/lei-2026-06441",
+   "unit": "olinda",
+   "short": "Lei 6441/2026",
+   "title": "Lei nº 6.441, de 1 de julho de 2026",
+   "url": "https://sapl.olinda.pe.leg.br/norma/2507",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 4,
+     "source_url": "https://sapl.olinda.pe.leg.br/media/sapl/public/normajuridica/2026/2507/lei_6441_2026.pdf",
+     "sha256": "9c5c7115d80075d97165c88d8b60c89c51291dcbdf6bc356332c133b08d825ac"
+    }
+   ]
+  },
+  {
+   "slug": "olinda/lei-2026-06440",
+   "unit": "olinda",
+   "short": "Lei 6440/2026",
+   "title": "Lei nº 6.440, de 1 de julho de 2026",
+   "url": "https://sapl.olinda.pe.leg.br/norma/2506",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 5,
+     "source_url": "https://sapl.olinda.pe.leg.br/media/sapl/public/normajuridica/2026/2506/lei_6440_2026_.pdf",
+     "sha256": "32b6470c7094d86643c5638fe020e90f69229e403852edbf1fc279808a7d4c0a"
+    }
+   ]
+  },
+  {
+   "slug": "olinda/lei-2026-06430",
+   "unit": "olinda",
+   "short": "Lei 6430/2026",
+   "title": "Lei nº 6.430, de 24 de março de 2026",
+   "url": "https://sapl.olinda.pe.leg.br/norma/2483",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 4,
+     "source_url": "https://sapl.olinda.pe.leg.br/media/sapl/public/normajuridica/2026/2483/lei_6430_2026_ass.pdf",
+     "sha256": "cece80517d03c1b199b405854b486dbd91aec57f4fbe22fab8856b53eccda117"
+    }
+   ]
+  },
+  {
+   "slug": "olinda/lei-2026-06420",
+   "unit": "olinda",
+   "short": "Lei 6420/2026",
+   "title": "Lei nº 6.420, de 11 de fevereiro de 2026",
+   "url": "https://sapl.olinda.pe.leg.br/norma/2473",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 3,
+     "source_url": "https://sapl.olinda.pe.leg.br/media/sapl/public/normajuridica/2026/2473/lei_6420_2026.pdf",
+     "sha256": "7b8d495f219406db58b4f86b7210e18a4e688a31bc86c73462a2ee780904b806"
+    }
+   ]
+  },
+  {
+   "slug": "olinda/lei-2026-06419",
+   "unit": "olinda",
+   "short": "Lei 6419/2026",
+   "title": "Lei nº 6.419, de 11 de fevereiro de 2026",
+   "url": "https://sapl.olinda.pe.leg.br/norma/2472",
+   "versions": [
+    {
+     "from": "2026-02-11",
+     "units": 6,
+     "source_url": "https://sapl.olinda.pe.leg.br/media/sapl/public/normajuridica/2026/2472/lei_6419_2026.pdf",
+     "sha256": "e82a85bec1fc36ff501f9a3fb3e06f910efb2513930674487e327500916fe2d4"
+    }
+   ]
+  },
+  {
+   "slug": "olinda/lei-2026-06417",
+   "unit": "olinda",
+   "short": "Lei 6417/2026",
+   "title": "Lei nº 6.417, de 7 de janeiro de 2026",
+   "url": "https://sapl.olinda.pe.leg.br/norma/2465",
+   "versions": [
+    {
+     "from": "2026-01-07",
+     "units": 4,
+     "source_url": "https://sapl.olinda.pe.leg.br/media/sapl/public/normajuridica/2026/2465/lei_6417_2026.pdf",
+     "sha256": "31af1c43250599548fe0c50f528c2355b530e445fcf9c8e89f5eee28070b9434"
+    }
+   ]
+  },
+  {
+   "slug": "olinda/lei-2026-06415",
+   "unit": "olinda",
+   "short": "Lei 6415/2026",
+   "title": "Lei nº 6.415, de 7 de janeiro de 2026",
+   "url": "https://sapl.olinda.pe.leg.br/norma/2461",
+   "versions": [
+    {
+     "from": "2026-01-07",
+     "units": 3,
+     "source_url": "https://sapl.olinda.pe.leg.br/media/sapl/public/normajuridica/2026/2461/lei_6415_2026.pdf",
+     "sha256": "babf2ecbde47bdee986f53d335030892ee60f4672467cc0f24cd41ebfcf99109"
+    }
+   ]
+  },
+  {
+   "slug": "olinda/lei-2026-06414",
+   "unit": "olinda",
+   "short": "Lei 6414/2026",
+   "title": "Lei nº 6.414, de 7 de janeiro de 2026",
+   "url": "https://sapl.olinda.pe.leg.br/norma/2460",
+   "versions": [
+    {
+     "from": "2026-01-07",
+     "units": 3,
+     "source_url": "https://sapl.olinda.pe.leg.br/media/sapl/public/normajuridica/2026/2460/lei_6414_2026.pdf",
+     "sha256": "0372ddfbbaf84451ac44587a2d4a2745d10ba7e9c17431e5a149fbed047a9bfc"
+    }
+   ]
+  },
+  {
+   "slug": "olinda/lei-2026-06412",
+   "unit": "olinda",
+   "short": "Lei 6412/2026",
+   "title": "Lei nº 6.412, de 7 de janeiro de 2026",
+   "url": "https://sapl.olinda.pe.leg.br/norma/2458",
+   "versions": [
+    {
+     "from": "2026-01-07",
+     "units": 3,
+     "source_url": "https://sapl.olinda.pe.leg.br/media/sapl/public/normajuridica/2026/2458/lei_6412_2026.pdf",
+     "sha256": "32525671239f504c93a3b3574358c40b44128d6c0a09eb0b0dbc1b20cdc546e7"
+    }
+   ]
+  },
+  {
+   "slug": "olinda/lei-2026-06407",
+   "unit": "olinda",
+   "short": "Lei 6407/2026",
+   "title": "Lei nº 6.407, de 7 de janeiro de 2026",
+   "url": "https://sapl.olinda.pe.leg.br/norma/2454",
+   "versions": [
+    {
+     "from": "2026-01-07",
+     "units": 4,
+     "source_url": "https://sapl.olinda.pe.leg.br/media/sapl/public/normajuridica/2026/2454/lei_6407_2026.pdf",
+     "sha256": "a783ec40c2b231cd646b9ad305e09d576564acf821efbc16edb31db7270d98a4"
+    }
+   ]
+  }
+ ]
+}

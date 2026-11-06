@@ -1,0 +1,25 @@
+{
+ "country": "BR-PE-MUNICIPAL",
+ "name": "Pernambuco: municipal chambers",
+ "tz": "America/Recife",
+ "future_branch": "futuro",
+ "publisher": "Câmaras Municipais de Pernambuco (SAPL)",
+ "units": [
+  {
+   "id": "olinda",
+   "folder": "olinda",
+   "name": "Olinda",
+   "code": "BR-PE-OLINDA",
+   "official_code": "2609600",
+   "source": "sapl.olinda.pe.leg.br"
+  },
+  {
+   "id": "belo-jardim",
+   "folder": "belo-jardim",
+   "name": "Belo Jardim",
+   "code": "BR-PE-BELO-JARDIM",
+   "official_code": "2601706",
+   "source": "sapl.belojardim.pe.leg.br"
+  }
+ ]
+}
